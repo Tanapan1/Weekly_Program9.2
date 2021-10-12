@@ -26,4 +26,5 @@ int main() {
 		printf("%c = %d\n", ch, count[k]);
 		ch++;
 	}
+	return 0;
 }
